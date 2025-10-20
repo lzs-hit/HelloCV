@@ -1,0 +1,3 @@
+/home/lzs/WEEK2work/build/CMakeFiles/CryptoTool.dir
+/home/lzs/WEEK2work/build/CMakeFiles/edit_cache.dir
+/home/lzs/WEEK2work/build/CMakeFiles/rebuild_cache.dir
